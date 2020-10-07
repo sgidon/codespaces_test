@@ -38,4 +38,9 @@ A-FrameのHello Worldを貼り付けてみる。
 
 お、Extensionにvimがあるぞ。これでかつる。
 
+適当に実装して、githubのsettingからGithub Pagesの設定をONとすると、公開できた。
+
+Githubだけでコーディングとサイト公開ができてしまうのはうれしいですね。
+ちょっとレスポンスが遅いのが気になりますが、Betaが取れる頃にはDesktop環境と遜色ない
+使い心地になっていることを期待。
 
